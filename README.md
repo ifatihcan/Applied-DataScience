@@ -40,10 +40,7 @@ Description: Predicts real estate prices based on various property and location 
 Model Used: Multiple Linear Regression.
 Evaluation Metrics: R-squared, Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and max error, providing insights into model accuracy.
 
-8. Air Quality Prediction
-Description: Predicts air quality by analyzing pollutant concentrations.
-Model Used: Logistic Regression.
-Evaluation Metrics: Confusion matrix and ROC curve for air quality prediction accuracy.
+
 Repository Structure
 Each project is organized in its own folder, containing the following files:
 

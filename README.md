@@ -40,6 +40,12 @@ Description: Predicts real estate prices based on various property and location 
 Model Used: Multiple Linear Regression.
 Evaluation Metrics: R-squared, Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and max error, providing insights into model accuracy.
 
+8. Wikipedia Topic Clustering Analysis
+Description: Clusters Wikipedia content from various domains (e.g., artificial intelligence, sports, animals) to explore topic-based similarities.
+Models Used: KMeans, Hierarchical Clustering.
+Evaluation Metrics: The elbow method and silhouette score are used to determine optimal clusters and evaluate model effectiveness.
+
+
 
 Repository Structure
 Each project is organized in its own folder, containing the following files:

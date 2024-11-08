@@ -1,4 +1,4 @@
-# Data-Mining
+# Data-Mining-Wranling
 A COLLECTION OF DATA SCIENCE AND MACHINE LEARNING PROJECTS
 
 This repository contains a diverse selection of data science and machine learning projects, each aimed at exploring various modeling techniques and performance metrics. Each project includes steps for data preprocessing, model building, and performance evaluation, showcasing different approaches to solving real-world problems. Below is an overview of the projects included.
@@ -44,6 +44,11 @@ Evaluation Metrics: R-squared, Mean Absolute Error (MAE), Root Mean Squared Erro
 Description: Clusters Wikipedia content from various domains (e.g., artificial intelligence, sports, animals) to explore topic-based similarities.
 Models Used: KMeans, Hierarchical Clustering.
 Evaluation Metrics: The elbow method and silhouette score are used to determine optimal clusters and evaluate model effectiveness.
+
+9. Microbusiness Density Prediction
+Description: This project predicts microbusiness density across various regions by analyzing demographic, economic, and spatial factors that influence small business concentration.
+Model Used: Random Forest Regression.
+Evaluation Metrics: R-squared, Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Median Absolute Error, offering a comprehensive view of model performance and prediction accuracy.
 
 
 

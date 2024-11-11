@@ -50,6 +50,11 @@ Description: This project predicts microbusiness density across various regions 
 Model Used: Random Forest Regression.
 Evaluation Metrics: R-squared, Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Median Absolute Error, offering a comprehensive view of model performance and prediction accuracy.
 
+10. Wikipedia Text Clustering
+Description: This project involves retrieving and clustering Wikipedia articles on various topics—artificial intelligence, sports, college majors, and animals. The clustering analysis aims to categorize these topics based on similarities in their content, providing insights into topic groupings and relationships. Key text processing techniques, including TF-IDF vectorization and cosine similarity, were applied to structure the text data for clustering.
+Models Used: KMeans and Agglomerative Clustering.
+Evaluation Metrics: Cosine similarity within clusters and visualization using dendrograms to assess clustering quality and topic separation. 
+
 
 
 Repository Structure

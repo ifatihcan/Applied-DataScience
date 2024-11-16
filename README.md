@@ -1,4 +1,4 @@
-# Data-Mining-Wranling
+# Data-Mining-Wrangling
 A COLLECTION OF DATA SCIENCE AND MACHINE LEARNING PROJECTS
 
 This repository contains a diverse selection of data science and machine learning projects, each aimed at exploring various modeling techniques and performance metrics. Each project includes steps for data preprocessing, model building, and performance evaluation, showcasing different approaches to solving real-world problems. Below is an overview of the projects included.

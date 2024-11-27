@@ -53,7 +53,16 @@ Evaluation Metrics: R-squared, Mean Absolute Error (MAE), Root Mean Squared Erro
 10. Wikipedia Text Clustering
 Description: This project involves retrieving and clustering Wikipedia articles on various topics—artificial intelligence, sports, college majors, and animals. The clustering analysis aims to categorize these topics based on similarities in their content, providing insights into topic groupings and relationships. Key text processing techniques, including TF-IDF vectorization and cosine similarity, were applied to structure the text data for clustering.
 Models Used: KMeans and Agglomerative Clustering.
-Evaluation Metrics: Cosine similarity within clusters and visualization using dendrograms to assess clustering quality and topic separation. 
+Evaluation Metrics: Cosine similarity within clusters and visualization using dendrograms to assess clustering quality and topic separation.
+
+11. Classification Analysis to Predict the Sentiment
+Description: This project focuses on predicting the sentiment of text data by building classification models. The dataset consists of text samples labeled with their corresponding sentiment (e.g., positive, negative, or neutral). Key text preprocessing steps such as tokenization, stop-word removal, and vectorization (e.g., TF-IDF) were applied to prepare the data for modeling. The goal of the analysis is to identify patterns and improve sentiment prediction accuracy.
+Models Used: Logistic Regression, Random Forest, and Support Vector Machines (SVM).
+Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, and ROC-AUC were used to evaluate the performance of the models. Comparative analysis highlighted strengths and weaknesses across different classifiers.
+Key Insights:
+Preprocessing significantly improved model performance, with TF-IDF providing the best representation for the data.
+SVM outperformed other models in terms of F1-Score, particularly for imbalanced sentiment classes.
+Hyperparameter tuning further enhanced the accuracy and robustness of predictions.
 
 
 
